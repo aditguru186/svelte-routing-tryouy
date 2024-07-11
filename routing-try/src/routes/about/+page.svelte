@@ -1,16 +1,8 @@
 <script>
-  import { Router, Route, Link } from "svelte-routing";
-//   import Home from "./home/+page.svelte";
-  import About from "./about/+page.svelte";
-  
-//   export let url = "";
+
 </script>
-<!-- 
-<Router url="{url}"></Router>
 
-<Route path="/about" component="{About}" /> -->
-
-<h1>Home</h1>
+<h1>About</h1>
 
 <style>
     h1{
@@ -25,4 +17,3 @@
         margin-bottom: 20px;
     }
 </style>
-
